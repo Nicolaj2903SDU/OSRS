@@ -70,6 +70,8 @@ public class Player {
         }
     }
 
+    // Test
+
     // Prayer
     public String prayer99 (int currentPrayerXP) {
         if (currentPrayerXP < level99) {
